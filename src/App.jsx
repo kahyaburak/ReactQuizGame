@@ -4,7 +4,8 @@ import Quiz from './components/Quiz.jsx';
 function App() {
   return (
     <>
-      <Header /> <Quiz />
+      <Header />
+      <Quiz />
     </>
   );
 }
